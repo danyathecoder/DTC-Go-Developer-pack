@@ -1,0 +1,21 @@
+{
+  "name": "dtc-golang-pack",
+  "displayName": "DTC Go Developer pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains extensions to develop using Go.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-Go-Developer-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "golang.go"
+  ]
+}
